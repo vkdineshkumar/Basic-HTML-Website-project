@@ -1,7 +1,7 @@
 # Basic-HTML-Website-project
 
 #project url
-https://github.com/vkdineshkumar/Basic-HTML-Website-project.git
+https://github.com/vkdineshkumar/Basic-HTML-Website-project
 
 
 #live code
