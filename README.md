@@ -1,8 +1,9 @@
-# Basic-HTML-Website-project
+# Basic HTML Website Project
 
-#project url
-https://github.com/vkdineshkumar/Basic-HTML-Website-project
+## Live Project
 
-
-#live code
 https://vkdineshkumar.github.io/Basic-HTML-Website-project/
+
+## GitHub Repository
+
+https://github.com/vkdineshkumar/Basic-HTML-Website-project
